@@ -8,7 +8,7 @@ ruuvi-go-gateway is a software that tries to replicate [Ruuvi Gateway](https://r
 - Supports sending latest BLE data via HTTP POST in same format as Ruuvi Gateway
 - Can send either just Ruuvi data or all scanned BLE data (configurable, like with the Gateway)
 
-- BLIB blob
+- BLIB blob dib
 
 ### Requirements
 
